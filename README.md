@@ -1,1 +1,5 @@
-# Pong-Javascript
+## Pong-Javascript
+
+Pensamento Computacional
+
+Turmas Iedo Nespolo
